@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/kubecon-lego-prize.png" alt="Instant prize: LEGO set. Scan the QR code to start a free trial, then show us your screen." width="100%">
+</p>
+
+[>>> START FREE TRIAL <<<](https://app.pulumi.com/signup?utm_source=kubecon&utm_medium=qr&utm_campaign=fy2027q2_event_kubecon-salt-lake)
+
 # KubeCon Challenge
 
 A small Pulumi TypeScript program that deploys nginx to an existing Kubernetes cluster. In this challenge, you use Pulumi Neo (Pulumi's AI agent) to change the infrastructure code and open a pull request.
