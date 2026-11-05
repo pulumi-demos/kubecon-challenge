@@ -11,7 +11,7 @@ A small Pulumi TypeScript program that deploys nginx to an existing Kubernetes c
 ## KubeCon challenge steps
 
 1. Fork [pulumi-demos/kubecon-challenge](https://github.com/pulumi-demos/kubecon-challenge) into your own GitHub org.
-2. Sign up for a [Pulumi trial](https://app.pulumi.com/signup).
+2. Sign up for a [Pulumi trial](https://app.pulumi.com/signup?utm_source=kubecon&utm_medium=qr&utm_campaign=fy2027q2_event_kubecon-salt-lake).
 3. In Pulumi's main nav, go to **Settings > Version control** and select **Add account**.
 4. Select the **GitHub** radio button, scroll to the bottom of the page, and select **Authorize in GitHub**.
 5. Select the GitHub org you forked the repo into, then select either **All repositories** or **Only select repositories** (if you choose the latter, include your fork).
